@@ -1,6 +1,6 @@
 # gitlab02p01
 
-#Developer: MR.NAM
+# Developer: MR.NAM
 A caculator that calculates simple interest given principal, annual, rale of interest and time period in years.
 Input:
   p, principal amount
